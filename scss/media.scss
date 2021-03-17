@@ -1,0 +1,16 @@
+@media (max-width: 717px){
+	.portfolio__img{
+		display: none;
+	}
+}
+@media (max-width: 619px){
+	.examples__item{
+		flex-direction: column;
+		align-items: center;
+	}
+}
+@media (max-width: 361px){
+	.examples__item-img {
+		width: 250px;
+}
+}
